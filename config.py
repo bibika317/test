@@ -2,7 +2,10 @@ import os
 import re
 from dotenv import load_dotenv
 
-load_dotenv()
+# Загружаем .env из корня проекта независимо от рабочей директории
+_BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+_DOTENV_PATH = os.path.join(_BASE_DIR, ".env")
+load_dotenv(dotenv_path=_DOTENV_PATH, override=False)
 
 # ============================================================
 # ОСНОВНЫЕ НАСТРОЙКИ
