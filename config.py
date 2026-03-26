@@ -47,7 +47,10 @@ REF_MAX_BONUS_TIMES = int(os.getenv("REF_MAX_BONUS_TIMES", "1"))
 # ============================================================
 # ПУТИ К ФАЙЛАМ
 # ============================================================
-if os.path.exists('/data') and os.path.isdir('/data'):
+_env_data_dir = os.getenv("DATA_DIR", "").strip()
+if _env_data_dir and os.path.isdir(_env_data_dir):
+    DATA_DIR = _env_data_dir
+elif os.path.exists('/data') and os.path.isdir('/data'):
     DATA_DIR = '/data'
 else:
     DATA_DIR = '.'
