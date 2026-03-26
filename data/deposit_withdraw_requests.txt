@@ -1,0 +1,112 @@
+[
+    {
+        "id": "DWDPYX6BN",
+        "user_id": 7649975146,
+        "username": "DiyorBaybovip",
+        "amount": 2.0,
+        "currency": "USD",
+        "reason": "Хочу купить номер",
+        "status": "approved",
+        "date": "2026-03-14T08:23:20.940793"
+    },
+    {
+        "id": "DWDTI9RNM",
+        "user_id": 8296200731,
+        "username": "chicko1kz",
+        "amount": 1.0,
+        "currency": "USD",
+        "reason": "Бабки нужны",
+        "status": "approved",
+        "date": "2026-03-14T09:11:49.422858"
+    },
+    {
+        "id": "DWDQPPFAZ",
+        "user_id": 8296200731,
+        "username": "chicko1kz",
+        "amount": 10.0,
+        "currency": "USD",
+        "reason": "Сука бабки нужны нахуй чипсы взять",
+        "status": "rejected",
+        "date": "2026-03-14T09:29:33.962969"
+    },
+    {
+        "id": "DWD0TNJ2Y",
+        "user_id": 8296200731,
+        "username": "chicko1kz",
+        "amount": 2.0,
+        "currency": "USD",
+        "reason": "Акша керек сгн н",
+        "status": "rejected",
+        "date": "2026-03-15T10:22:29.218291"
+    },
+    {
+        "id": "DWDTBWL8Q",
+        "user_id": 2068942442,
+        "username": "ers70",
+        "amount": 10.0,
+        "currency": "USD",
+        "reason": "Хочу жрать",
+        "status": "approved",
+        "date": "2026-03-17T13:27:01.362106"
+    },
+    {
+        "id": "DWD96QB94",
+        "user_id": 1396943170,
+        "username": "pandaa1839",
+        "amount": 2.5,
+        "currency": "USD",
+        "reason": "купить номер",
+        "status": "approved",
+        "date": "2026-03-17T19:56:18.145723"
+    },
+    {
+        "id": "DWDYO2KWH",
+        "user_id": 7675914616,
+        "username": "ARESTOBAN_VPOTOKE",
+        "amount": 2.0,
+        "currency": "USD",
+        "reason": "Ыы",
+        "status": "approved",
+        "date": "2026-03-18T06:16:06.719840"
+    },
+    {
+        "id": "DWD293XRW",
+        "user_id": 2068942442,
+        "username": "ers70",
+        "amount": 10.0,
+        "currency": "USD",
+        "reason": "Жрать зочу",
+        "status": "pending",
+        "date": "2026-03-24T10:53:26.525575"
+    },
+    {
+        "id": "DWDSZZCGF",
+        "user_id": 2068942442,
+        "username": "ers70",
+        "amount": 10.0,
+        "currency": "USD",
+        "reason": "ЖРАТЬ ХОЧУУУУ",
+        "status": "approved",
+        "date": "2026-03-24T10:59:43.000449"
+    },
+    {
+        "id": "DWDN76NCM",
+        "user_id": 5038293322,
+        "username": "TheRealTragedy",
+        "amount": 0.1,
+        "currency": "USD",
+        "reason": "-",
+        "status": "approved",
+        "date": "2026-03-24T13:01:43.561394"
+    },
+    {
+        "id": "DWDTIJPGB",
+        "user_id": 8296200731,
+        "username": "chicko1kz",
+        "amount": 50.0,
+        "currency": "USD",
+        "reason": "Айбар порно",
+        "status": "rejected",
+        "date": "2026-03-25T11:09:04.646150"
+    }
+]
