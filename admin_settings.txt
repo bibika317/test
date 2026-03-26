@@ -1,0 +1,5 @@
+{
+    "crypto_link": "",
+    "card_details": "",
+    "usd_kzt_rate": 450.0
+}
