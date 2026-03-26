@@ -812,5 +812,71 @@
         "crypto_link": "http://t.me/send?start=IVb2dTWFFtRJ",
         "status": "approved",
         "date": "2026-03-25T18:05:06.227112"
+    },
+    {
+        "id": "WD0EIT6O",
+        "user_id": 141496788,
+        "username": "ed24kz",
+        "amount_net": 1.23,
+        "amount_fee": 0.0615,
+        "amount_total": 1.2915,
+        "crypto_link": "http://t.me/send?start=IVKVPg1pmZIv",
+        "status": "pending",
+        "date": "2026-03-26T09:35:07.983476"
+    },
+    {
+        "id": "WDIQ8A8F",
+        "user_id": 5121758727,
+        "username": "QUIET_GL",
+        "amount_net": 1.43,
+        "amount_fee": 0.0715,
+        "amount_total": 1.5014999999999998,
+        "crypto_link": "t.me/send?start=IVsWFpXXZnRO",
+        "status": "approved",
+        "date": "2026-03-26T10:21:50.436427"
+    },
+    {
+        "id": "WDVAX7L3",
+        "user_id": 5121758727,
+        "username": "QUIET_GL",
+        "amount_net": 1.34,
+        "amount_fee": 0.067,
+        "amount_total": 1.407,
+        "crypto_link": "t.me/send?start=IVea0XGXRhrO",
+        "status": "approved",
+        "date": "2026-03-26T15:23:57.539782"
+    },
+    {
+        "id": "WDNCCJ1F",
+        "user_id": 8321198599,
+        "username": "Pro_Top_2026",
+        "amount_net": 1.9,
+        "amount_fee": 0.095,
+        "amount_total": 1.9949999999999999,
+        "crypto_link": "http://t.me/send?start=IVuugV8kdcha",
+        "status": "pending",
+        "date": "2026-03-26T15:27:48.508401"
+    },
+    {
+        "id": "WDAPUF30",
+        "user_id": 8321198599,
+        "username": "Pro_Top_2026",
+        "amount_net": 1.9,
+        "amount_fee": 0.095,
+        "amount_total": 1.9949999999999999,
+        "crypto_link": "http://t.me/send?start=IVn5wgosf87u",
+        "status": "approved",
+        "date": "2026-03-26T15:28:49.020661"
+    },
+    {
+        "id": "WDJM9IS8",
+        "user_id": 141496788,
+        "username": "ed24kz",
+        "amount_net": 1.23,
+        "amount_fee": 0.0615,
+        "amount_total": 1.2915,
+        "crypto_link": "http://t.me/send?start=IVKVPg1pmZIv",
+        "status": "approved",
+        "date": "2026-03-26T16:27:24.357213"
     }
 ]

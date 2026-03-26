@@ -616,17 +616,6 @@
         "created_at": "2026-03-17T14:53:21.775786"
     },
     {
-        "id": "NUM6X2KBF",
-        "number": "+77759139080",
-        "country": "KAZAKHSTAN",
-        "type": "sms",
-        "seller_id": 7181259066,
-        "price": 1.5,
-        "currency": "USD",
-        "status": "in_deal",
-        "created_at": "2026-03-17T16:07:11.029765"
-    },
-    {
         "id": "NUM1N0HX7",
         "number": "+77760991654",
         "country": "KAZAKHSTAN",
@@ -854,7 +843,7 @@
         "seller_id": 8647359273,
         "price": 1.55,
         "currency": "USD",
-        "status": "active",
+        "status": "in_deal",
         "created_at": "2026-03-23T19:36:10.737249"
     },
     {
@@ -1001,17 +990,6 @@
         "created_at": "2026-03-25T10:28:49.757678"
     },
     {
-        "id": "NUM4OANZI",
-        "number": "+77752655935",
-        "country": "KAZAKHSTAN",
-        "type": "sms",
-        "seller_id": 7025243754,
-        "price": 2.2,
-        "currency": "USD",
-        "status": "in_deal",
-        "created_at": "2026-03-25T10:33:50.443672"
-    },
-    {
         "id": "NUM96KDMO",
         "number": "+77759527321",
         "country": "KAZAKHSTAN",
@@ -1023,50 +1001,6 @@
         "created_at": "2026-03-25T10:38:42.801645"
     },
     {
-        "id": "NUMD54NB9",
-        "number": "+77779798197",
-        "country": "KAZAKHSTAN",
-        "type": "sms",
-        "seller_id": 8296200731,
-        "price": 2.0,
-        "currency": "USD",
-        "status": "sold",
-        "created_at": "2026-03-25T12:25:31.679773"
-    },
-    {
-        "id": "NUM33HJL5",
-        "number": "77784033651",
-        "country": "KAZAKHSTAN",
-        "type": "sms",
-        "seller_id": 7210320395,
-        "price": 1.3,
-        "currency": "USD",
-        "status": "in_deal",
-        "created_at": "2026-03-25T13:01:22.776231"
-    },
-    {
-        "id": "NUMYXXEAF",
-        "number": "+77089879335",
-        "country": "KAZAKHSTAN",
-        "type": "sms",
-        "seller_id": 8603699347,
-        "price": 2.0,
-        "currency": "USD",
-        "status": "in_deal",
-        "created_at": "2026-03-25T14:59:26.887344"
-    },
-    {
-        "id": "NUMWRR71T",
-        "number": "+77066960142",
-        "country": "KAZAKHSTAN",
-        "type": "sms",
-        "seller_id": 5538397955,
-        "price": 15.0,
-        "currency": "USD",
-        "status": "active",
-        "created_at": "2026-03-25T17:45:40.795703"
-    },
-    {
         "id": "NUMMYQ6DM",
         "number": "+77759125476",
         "country": "KAZAKHSTAN",
@@ -1076,5 +1010,137 @@
         "currency": "USD",
         "status": "active",
         "created_at": "2026-03-25T17:46:37.681685"
+    },
+    {
+        "id": "NUM6UQ9MP",
+        "number": "+77473692188",
+        "country": "KAZAKHSTAN",
+        "type": "sms",
+        "seller_id": 8031354650,
+        "price": 2.0,
+        "currency": "USD",
+        "status": "sold",
+        "created_at": "2026-03-26T08:16:14.299074"
+    },
+    {
+        "id": "NUM6MGM0F",
+        "number": "+77076609839",
+        "country": "KAZAKHSTAN",
+        "type": "sms",
+        "seller_id": 8031354650,
+        "price": 2.0,
+        "currency": "USD",
+        "status": "sold",
+        "created_at": "2026-03-26T08:23:54.283391"
+    },
+    {
+        "id": "NUMOBPSWB",
+        "number": "+77087620243",
+        "country": "KAZAKHSTAN",
+        "type": "sms",
+        "seller_id": 8031354650,
+        "price": 2.0,
+        "currency": "USD",
+        "status": "sold",
+        "created_at": "2026-03-26T08:34:49.391479"
+    },
+    {
+        "id": "NUMUF0V88",
+        "number": "+77716047508",
+        "country": "KAZAKHSTAN",
+        "type": "sms",
+        "seller_id": 8031354650,
+        "price": 2.1,
+        "currency": "USD",
+        "status": "sold",
+        "created_at": "2026-03-26T08:35:45.421728"
+    },
+    {
+        "id": "NUMFLBJHW",
+        "number": "+77760963968",
+        "country": "KAZAKHSTAN",
+        "type": "sms",
+        "seller_id": 141496788,
+        "price": 1.3,
+        "currency": "USD",
+        "status": "sold",
+        "created_at": "2026-03-26T08:51:02.535130"
+    },
+    {
+        "id": "NUM1MHYX3",
+        "number": "+77783441653",
+        "country": "KAZAKHSTAN",
+        "type": "sms",
+        "seller_id": 8321198599,
+        "price": 2.0,
+        "currency": "USD",
+        "status": "sold",
+        "created_at": "2026-03-26T12:49:59.983658"
+    },
+    {
+        "id": "NUM9UVICA",
+        "number": "+77759480083",
+        "country": "KAZAKHSTAN",
+        "type": "sms",
+        "seller_id": 8209617821,
+        "price": 3.0,
+        "currency": "USD",
+        "status": "sold",
+        "created_at": "2026-03-26T12:55:33.285132"
+    },
+    {
+        "id": "NUM2S8VL6",
+        "number": "+77089879335",
+        "country": "KAZAKHSTAN",
+        "type": "sms",
+        "seller_id": 8603699347,
+        "price": 3.0,
+        "currency": "USD",
+        "status": "active",
+        "created_at": "2026-03-26T14:37:01.676637"
+    },
+    {
+        "id": "NUMRB4YNN",
+        "number": "+77718364396",
+        "country": "KAZAKHSTAN",
+        "type": "sms",
+        "seller_id": 8321198599,
+        "price": 1.5,
+        "currency": "USD",
+        "status": "sold",
+        "created_at": "2026-03-26T15:41:24.029795"
+    },
+    {
+        "id": "NUMPEQXHO",
+        "number": "+77784038882",
+        "country": "KAZAKHSTAN",
+        "type": "sms",
+        "seller_id": 7210320395,
+        "price": 1.45,
+        "currency": "USD",
+        "status": "sold",
+        "created_at": "2026-03-26T15:53:01.904272"
+    },
+    {
+        "id": "NUMTDDKJN",
+        "number": "+77713632134",
+        "country": "KAZAKHSTAN",
+        "type": "sms",
+        "seller_id": 8647359273,
+        "price": 1.56,
+        "currency": "USD",
+        "status": "active",
+        "created_at": "2026-03-26T16:07:57.499021"
+    },
+    {
+        "id": "NUMECNMWL",
+        "number": "+77056660661",
+        "country": "KAZAKHSTAN",
+        "type": "sms",
+        "seller_id": 8647359273,
+        "price": 10.0,
+        "currency": "USD",
+        "status": "active",
+        "created_at": "2026-03-26T16:09:08.060035"
     }
 ]
