@@ -16,7 +16,7 @@ from telegram.ext import (
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 from config import BOT_TOKEN
-from appdata.storage import init_db
+from storage import init_db
 
 # ——— Хэндлеры ———
 from handlers.menu import start_command, support_contact_handler
