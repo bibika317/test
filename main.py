@@ -1,6 +1,12 @@
 """
 main.py — Точка входа бота. Регистрация хэндлеров, планировщик, запуск.
 """
+import os
+import sys
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+if BASE_DIR not in sys.path:
+    sys.path.insert(0, BASE_DIR)
+
 import logging
 from telegram import Update, BotCommand
 from telegram.ext import (
@@ -10,7 +16,7 @@ from telegram.ext import (
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 from config import BOT_TOKEN
-from data.storage import init_db
+from appdata.storage import init_db
 
 # ——— Хэндлеры ———
 from handlers.menu import start_command, support_contact_handler
